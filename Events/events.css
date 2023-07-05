@@ -1,0 +1,46 @@
+h1 {
+    color: red;
+    font-size: 150px;
+    font-family: cursive;
+    text-align: center;
+}
+
+.yellow {
+    background-color: black;
+    font-family: cursive;
+    font-size: 30px;
+    margin: 20px;
+    padding: 10px;
+    border: 5px solid yellow;
+    border-radius: 10px;
+    color: yellow;
+}
+
+.purple {
+    background-color: yellow;
+    font-family: cursive;
+    font-size: 30px;
+    margin: 20px;
+    padding: 10px;
+    border: 5px solid purple;
+    border-radius: 10px;
+    color: purple;
+}
+
+.turquoise {
+    background-color: black;
+    font-family: cursive;
+    font-size: 30px;
+    margin: 20px;
+    padding: 10px;
+    border: 5px solid turquoise;
+    border-radius: 10px;
+    color: turquoise;
+}
+
+button {
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: cursive;
+}
